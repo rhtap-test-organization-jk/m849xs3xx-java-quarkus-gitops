@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m849xs3xx-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/m849xs3xx-java-quarkus
